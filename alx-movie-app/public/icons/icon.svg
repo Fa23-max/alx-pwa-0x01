@@ -1,0 +1,6 @@
+<svg width="310" height="310" viewBox="0 0 310 310" xmlns="http://www.w3.org/2000/svg">
+  <rect width="310" height="310" fill="#0070f3"/>
+  <circle cx="155" cy="155" r="100" fill="#ffffff"/>
+  <polygon points="140,120 140,190 200,155" fill="#0070f3"/>
+  <text x="155" y="250" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="24" font-weight="bold">CineSeek</text>
+</svg>

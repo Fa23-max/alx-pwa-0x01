@@ -1,0 +1,57 @@
+### Node.js
+node_modules/
+*.log
+*.pid
+*.seed
+*.pid.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+### Dependency directories
+alx-movie-app/node_modules/
+
+### Next.js
+.next/
+out/
+.next/cache/
+.turbo/
+.vercel
+
+### Build output
+dist/
+build/
+
+### TypeScript
+*.tsbuildinfo
+
+### Testing
+coverage/
+.nyc_output/
+
+### Env files
+.env
+.env.local
+.env.*.local
+alx-movie-app/.env
+alx-movie-app/.env.local
+alx-movie-app/.env.*.local
+!.env.example
+!alx-movie-app/.env.example
+
+### Editors
+.DS_Store
+.vscode/
+.idea/
+
+### Misc caches
+.cache/
+.eslintcache
+*.swp
+*.swo
+
+### OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
